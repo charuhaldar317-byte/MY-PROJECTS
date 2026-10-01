@@ -7,6 +7,11 @@ An analysis of 5,000 insurance policies, with the same dataset visualized as a d
 - `tableau insurance analytics`: Tableau dashboard (.twbx)
 - `power bi insurance analytics`: Power BI dashboard (.pbix)
 
+## Dashboards
+![Excel Dashboard](insurance%20analytics%20ss/excel-dashboard.png)
+![Tableau Dashboard](insurance%20analytics%20ss/tableau-dashboard.png)
+![Power BI Dashboard](insurance%20analytics%20ss/powerbi-dashboard.png)
+
 ## Dataset
 The Excel file contains 5 tables, each with 5,000 records:
 - Customer information (age, gender, occupation, marital status, location)
